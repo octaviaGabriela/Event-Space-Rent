@@ -1,0 +1,16 @@
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\bin\Debug\Spectacole.exe.config
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\bin\Debug\Spectacole.exe
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\bin\Debug\Spectacole.pdb
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\bin\Debug\Spectacole.xml
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.vbproj.AssemblyReference.cache
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.FormColectareDateArtistSiReprezentant.resources
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.Resources.resources
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.vbproj.GenerateResource.cache
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.vbproj.CoreCompileInputs.cache
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.exe
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.xml
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.pdb
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.FormPlanificareSpectacol.resources
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.FormCreazaContract.resources
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.FormContract.resources
+C:\Users\Octavia\Desktop\ProiectSpectacole\Spectacole\obj\Debug\Spectacole.FormBilete.resources
